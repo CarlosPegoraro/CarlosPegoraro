@@ -1,6 +1,6 @@
 # Sejam bem-vindos
 
-*------------------------*
+---
 
 ## Sobre Mim
 

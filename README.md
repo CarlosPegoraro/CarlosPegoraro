@@ -2,4 +2,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPegoraro&show_icons=true&theme=tokyonight&hide=contribs,inssues$locale=br)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=100Days100Codes)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=100Days100Codes)]([https://github.com/CarlosPegoraro/100Days100Codes])

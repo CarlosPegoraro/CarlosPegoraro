@@ -1,6 +1,6 @@
 # Sejam bem-vindos
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPegoraro&show_icons=true&theme=tokyonight&hide=contribs,inssues&locale=pt)](https://github.com/CarlosPegoraro)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPegoraro&show_icons=true&theme=tokyonight&hide=contribs,inssues&locale=es)](https://github.com/CarlosPegoraro)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPegoraro&theme=tokyonight&locale=pt)](https://github.com/CarlosPegoraro)
 

@@ -4,6 +4,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=100Days100Codes)](https://github.com/CarlosPegoraro/100Days100Codes)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPegoraro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPegoraro)](https://github.com/CarlosPegoraro)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosPegoraro)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosPegoraro)](https://github.com/CarlosPegoraro)

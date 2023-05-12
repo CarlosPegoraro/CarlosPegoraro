@@ -1,9 +1,9 @@
-# *Sejam bem-vindos*
-> ## Front-End Developer
+# 🖥️ *Sejam bem-vindos* ♥️
+> ## Front-End Developer ♾️
 
 <br/>
 
-## Sobre Mim
+## Sobre Mim 📎
 
 Olá, sou o Kadu! Sou um jovem programador apaixonado pela tecnologia e completamente dedicado à arte de programar. Desde que mergulhei nesse mundo fascinante, descobri que a programação vai muito além de linhas de código. É uma forma de expressão, uma maneira de criar soluções inovadoras e de impacto.
 
@@ -21,7 +21,7 @@ Esses são os dados da minha trajetoria:
 
 ***
 
-## __*Linguagens*__
+## __*Linguagens*__ ⌨️
 
 <div style="display: inline_block"> <br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,7 +38,7 @@ Esses são os dados da minha trajetoria:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPegoraro&theme=tokyonight&locale=en)](https://github.com/CarlosPegoraro)
 
-## __*Repositórios*__
+## __*Repositórios*__ 💾
 
 <div style="display: inline_block">
 <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/100Days100Codes">
@@ -64,10 +64,7 @@ Esses são os dados da minha trajetoria:
 </a>
 <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/Cursos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=Cursos&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/BitWhale">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=BitWhale&theme=tokyonight" />
-</a>
+ </a>
   
  </div>
 

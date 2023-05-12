@@ -40,11 +40,13 @@ Esses são os dados da minha trajetoria:
 
 ## __*Repositórios*__
 
+<div style="gap: 10px">
 <a style="margin: 2px 10px" href="https://github.com/CarlosPegoraro/100Days100Codes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=100Days100Codes&theme=tokyonight" />
 </a>
 <a style="margin: 2px 10px" href="https://github.com/CarlosPegoraro/AppMed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=AppMed&theme=tokyonight" />
 </a>
+ </div>
 
 

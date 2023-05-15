@@ -1,4 +1,4 @@
-# 🖥️ *Sejam bem-vindos* ♥️
+# 🖥️ *Sejam bem-vindos*
 > ## Front-End Developer ♾️
 
 <br/>

@@ -65,8 +65,8 @@ Esses são os dados da minha trajetoria:
 <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/Cursos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=Cursos&theme=tokyonight" />
  </a>
-  <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/IntensivaoPython">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=IntensivaoPython&theme=tokyonight" />
+  <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/PythonCC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=PythonCC&theme=tokyonight" />
  </a>
   
  </div>

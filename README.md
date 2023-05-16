@@ -1,27 +1,27 @@
-# 🖥️ *Sejam bem-vindos*
+# 🖥️ *Welcome to my GitHub*
 > ## Front-End Developer ♾️
 
 <br/>
 
-## Sobre Mim 📎
+## About Me 📎
 
-Olá, sou o Kadu! Sou um jovem programador apaixonado pela tecnologia e completamente dedicado à arte de programar. Desde que mergulhei nesse mundo fascinante, descobri que a programação vai muito além de linhas de código. É uma forma de expressão, uma maneira de criar soluções inovadoras e de impacto.
+Hello, I'm Kadu! I'm a young programmer passionate about technology and fully dedicated to the art of coding. Ever since I immersed myself in this fascinating world, I discovered that programming goes far beyond lines of code. It's a form of expression, a way to create innovative and impactful solutions.
 
-Cada vez que me deparo com um novo desafio, é como se um universo de possibilidades se abrisse diante dos meus olhos. A empolgação que sinto ao enfrentar problemas complexos e encontrar soluções eficientes é indescritível. A programação é um constante aprendizado, onde a curiosidade e a busca por conhecimento são motores que impulsionam minha jornada.
+Every time I encounter a new challenge, it's like a universe of possibilities opens up before my eyes. The excitement I feel when tackling complex problems and finding efficient solutions is indescribable. Programming is a constant learning journey where curiosity and the pursuit of knowledge drive me forward.
 
-Estou entusiasmado em compartilhar minha jornada neste repositório pessoal. Aqui, além de projetos que desenvolvi, você encontrará ideias que surgiram da minha paixão pela programação. Cada linha de código é uma manifestação do meu entusiasmo e dedicação.
+I'm thrilled to share my journey in this personal repository. Here, in addition to projects I've developed, you'll find ideas that have arisen from my passion for programming. Every line of code is a manifestation of my enthusiasm and dedication.
 
-Seja bem-vindo(a) a este espaço onde a paixão pela programação ganha vida! Estou ansioso para compartilhar conhecimento, trocar ideias e colaborar com outros entusiastas como você. Juntos, podemos explorar um universo infinito de possibilidades e impulsionar o potencial da tecnologia para criar um impacto positivo no mundo.
+Welcome to this space where the passion for programming comes to life! I'm eager to share knowledge, exchange ideas, and collaborate with other enthusiasts like you. Together, we can explore an infinite universe of possibilities and harness the potential of technology to create a positive impact in the world.
 
-Sinta-se à vontade para explorar os projetos, abrir problemas (issues) ou enviar sugestões. Vamos embarcar nessa jornada empolgante e construir um futuro repleto de inovação e criatividade!
+Feel free to explore the projects, open issues, or provide suggestions. Let's embark on this exciting journey and build a future full of innovation and creativity!
 
-Esses são os dados da minha trajetoria:
+Here are the details of my journey:
 
 [![CarlosLopes's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPegoraro&show_icons=true&theme=tokyonight&locale=en)](https://github.com/CarlosPegoraro)
 
 ***
 
-## __*Linguagens*__ ⌨️
+## __*Languages*__ ⌨️
 
 <div style="display: inline_block"> <br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

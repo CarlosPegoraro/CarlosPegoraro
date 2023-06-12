@@ -15,9 +15,15 @@ Welcome to this space where the passion for programming comes to life! I'm eager
 
 Feel free to explore the projects, open issues, or provide suggestions. Let's embark on this exciting journey and build a future full of innovation and creativity!
 
-Here are the details of my journey:
+### Here is the details of my journey:
 
 [![CarlosLopes's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPegoraro&show_icons=true&theme=tokyonight&locale=en)](https://github.com/CarlosPegoraro)
+
+### Here is my portfolio:
+</a>
+  <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=PythonCC&theme=tokyonight" />
+ </a>
 
 ***
 

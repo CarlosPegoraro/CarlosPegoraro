@@ -22,7 +22,7 @@ Feel free to explore the projects, open issues, or provide suggestions. Let's em
 ### Here is my portfolio:
 </a>
   <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=PythonCC&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=portfolio&theme=tokyonight" />
  </a>
 
 ***

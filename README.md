@@ -50,9 +50,6 @@ Feel free to explore the projects, open issues, or provide suggestions. Let's em
 <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/100Days100Codes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=100Days100Codes&theme=tokyonight" />
 </a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/AppMed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=AppMed&theme=tokyonight" />
-</a>
 <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/horizonbank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=horizonbank&theme=tokyonight" />
 </a>

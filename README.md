@@ -1,11 +1,8 @@
-# 🖥️ *Welcome to my GitHub*
-> ## Front-End Developer ♾️
+# *Hello! You found me*
 
-<br/>
+## Who I am?
 
-## About Me 📎
-
-Hello, I'm Kadu! I'm a young programmer passionate about technology and fully dedicated to the art of coding. Ever since I immersed myself in this fascinating world, I discovered that programming goes far beyond lines of code. It's a form of expression, a way to create innovative and impactful solutions.
+I'm Kadu! I'm a young programmer passionate about technology and fully dedicated to the art of coding. Ever since I immersed myself in this fascinating world, I discovered that programming goes far beyond lines of code. It's a form of expression, a way to create innovative and impactful solutions.
 
 Every time I encounter a new challenge, it's like a universe of possibilities opens up before my eyes. The excitement I feel when tackling complex problems and finding efficient solutions is indescribable. Programming is a constant learning journey where curiosity and the pursuit of knowledge drive me forward.
 
@@ -27,24 +24,23 @@ Feel free to explore the projects, open issues, or provide suggestions. Let's em
 
 ***
 
-## __*Languages*__ ⌨️
+## *My favorite programming languages* ⌨️
 
 <div style="display: inline_block"> <br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-EDBD25?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="next" src="https://img.shields.io/badge/Next.js-252525?style=for-the-badge&logo=next.js&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPegoraro&theme=tokyonight&locale=en)](https://github.com/CarlosPegoraro)
 
-## __*Repositórios*__ 💾
+## __*My Top 10 Public Repositories*__ 💾
 
 <div style="display: inline_block">
 <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/100Days100Codes">

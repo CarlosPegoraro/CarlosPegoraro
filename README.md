@@ -17,7 +17,7 @@ Feel free to explore the projects, open issues, or provide suggestions. Let's em
 [![CarlosLopes's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPegoraro&show_icons=true&theme=tokyonight&locale=en)](https://github.com/CarlosPegoraro)
 
 ### Here is my portfolio:
-</a>
+<br/>
   <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=portfolio&theme=tokyonight" />
  </a>

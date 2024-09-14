@@ -8,7 +8,7 @@ I'm student of first semester of computation engineering with 2 years of experen
 
 - **[Campus - IoT Solution For Irrigation System](#)**: A smart solution for reduce the waste of water in irrigation process using **Laravel**, **Postgress** and **Esp32 with Lora and Wifi modules**.
 - **[iDev - Dev Learning Platform](https://idev.developerpegoraro.dev.br)**: A platform created to show my own courses about development and others contents about technology created with **Laravel**, **React with TypeScript**, **Tailwind** and **Postgres**.
-- **[WVL - Finance Managent System](https://wvl.developerpegoraro.dev.br/login)**: A System to help the users to managemnet yours transactions and created better use of your money using data analytics with **Api of OpenAI**, **Laravel**, **React with TS** and **Postgres**
+- **[WVL - Finance Managent System](https://wvl.developerpegoraro.dev.br)**: A System to help the users to managemnet yours transactions and created better use of your money using data analytics with **Api of OpenAI**, **Laravel**, **React with TS** and **Postgres**
 
 ## :mortar_board: Skills and Technologies
 

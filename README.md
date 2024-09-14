@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Technical in Informatica | Studying Computation Engineering**
 
-I'm student of first semester of computation engineering with 2 years of experence in development of systens using in most of projects **PHP, Laravel and Postgres**, but I've been study the sector of IoT to make devices for telemetry and trancking and residencial automations.
+I'm student of first semester of computation engineering with 2 years of experence in development of systens using in most of projects **PHP, Laravel and Postgres**, but I've been study IoT to develop devices for telemetry and tracking and residencial automations.
 
 ## :office: Work Experence
 - **Logymetria**: I worked in the development of internal system and the website, using Full-Stack technologys like Laravel and React

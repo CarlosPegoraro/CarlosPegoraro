@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Carlos Pegoraro
 
-**Full Stack Developer | Tech Enthusiast | Open Source Contributor**
+**Full Stack Developer | Technical in Informatica | Studying Computation Engineering**
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions and contributing to the open-source community.
+I'm student of first semester of computation engineering with 2 years of experence in development of systens using in most of projects **PHP, Laravel and Postgres**, but I've been study the sector of IoT to make devices for telemetry and trancking and residencial automations.
 
 ## Main Projects
 
@@ -10,26 +10,25 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 - **[iDev - Dev Learning Platform](https://idev.developerpegoraro.dev.br)**: A platform created to show my own courses about development and others contents about technology created with **Laravel**, **React with TypeScript**, **Tailwind** and **Postgres**.
 - **[WVL - Finance Managent System](https://wvl.developerpegoraro.dev.br/login)**: A System to help the users to managemnet yours transactions and created better use of your money using data analytics with **Api of OpenAI**, **Laravel**, **React with TS** and **Postgres**
 
-## 🌱 Skills and Technologies
+## :mortar_board: Skills and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
-- **Languages**: JavaScript (Node.js, React.js), PHP (Laravel), Python
-- **Databases**: MySQL, MongoDB
-- **Tools & Platforms**: Docker, AWS, Git, Linux, Arduino
-- **Others**: IoT Development, Embedded Systems, API Development
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,css,js,php,py,ts,mysql,postgres,sqlite,docker,bootstrap,fastapi,jquery,laravel,react,tailwind,vite,cloudflare,figma,git,github,gitlab,linux&perline=12)](https://skillicons.dev)
+- **Languages**: **PHP**, JavaScript, TypeScript, CSS, Python, Arduino, C 
+- **Databases**: **Postgres**, MySQL, SQlite
+- **Tools & Platforms**: Docker, Digital Ocean, Git, Linux, Arduino
+- **Others**: IoT Development, API Development, Full-Stack
 
 ## 📫 Let's Connect
 
-- **Website**: [Your Website](https://developerpegoraro.dev.br) <!-- Replace with your actual website -->
-- **Email**: [your.email@example.com](mailto:carlospegorarolopes@gmail.com) <!-- Replace with your actual email -->
-
+- **Website**: [Your Website](https://developerpegoraro.dev.br) 
+- **Email**: [your.email@example.com](mailto:carlospegorarolopes@gmail.com)
 ## 📈 GitHub Stats
 
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPegoraro&show_icons=true&theme=default)
 
 ## 💡 Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=repository-name&theme=default)](https://github.com/CarlosPegoraro/repository-name)
+[![Leet Code Projects](https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=LeetCodeProjects&theme=default)](https://github.com/CarlosPegoraro/repository-name)
 
 ## 📝 Latest Blog Posts
 
@@ -41,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 ## ⚡ Fun Fact
 
-When I'm not coding, you can find me experimenting with electronics or exploring the latest tech trends.
+When I'm not coding, you can find me playing games or study about socity and people.
 
 ---
 

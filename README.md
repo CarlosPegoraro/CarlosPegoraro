@@ -1,48 +1,54 @@
-# Hello World, I'm Carlos Pegoraro
+# Olá, mundo! Eu sou Carlos Pegoraro
 
-**Full Stack Developer | Technical in Informatica | Studying Computation Engineering**
+**Desenvolvedor Full Stack | Técnico em Informática | Estudante de Engenharia da Computação**
 
-I'm student of first semester of computation engineering with 2 years of experence in development of systens using in most of projects **PHP, Laravel and Postgres**, but I've been study IoT to develop devices for telemetry and tracking and residencial automations.
+Sou estudante do primeiro semestre de Engenharia da Computação, com 2 anos de experiência no desenvolvimento de sistemas, atuando principalmente com **PHP, Laravel e Postgres**. Tenho estudado Internet das Coisas (IoT) para desenvolver dispositivos voltados à telemetria, rastreamento e automações residenciais.
 
-## :office: Work Experence
-- **Logymetria**: I worked in the development of internal system and the website, using Full-Stack technologys like Laravel and React
-- **Buscalog**: I'm working in web plataform for monitoring of tracker devices and managements of vehicles with support to mobile application
-- **1085 Pub**: I worked as a manager contributing to the management of other employees and delivering great results
+## :office: Experiência Profissional
 
-## :pencil: Main Projects
+- **Logymetria**: Atuei no desenvolvimento do sistema interno e do site institucional, utilizando tecnologias Full Stack como Laravel e React.  
+- **Buscalog**: Atualmente trabalho na plataforma web para monitoramento de dispositivos de rastreamento e gestão de frotas, com suporte a aplicativo mobile.  
+- **1085 Pub**: Atuei como gerente, contribuindo na gestão de equipe e obtendo excelentes resultados.
 
-- **[Campus - IoT Solution For Irrigation System](#)**: A smart solution for reduce the waste of water and automation irrigation processes using **Laravel**, **Postgress** and **Esp32 with Lora and Wifi modules**.
-- **[iDev - Dev Learning Platform](https://idev.developerpegoraro.dev.br)**: A platform created to show my own courses about development and others contents about technology, created with **Laravel**, **React with TypeScript**, **Tailwind** and **Postgres**.
-- **[WVL - Finance Managent System](https://wvl.developerpegoraro.dev.br)**: A System to help the users to managemnet yours transactions and created better use of your money using data analytics with **Api of OpenAI**, **Laravel**, **React with TS** and **Postgres**
+## :pencil: Principais Projetos
 
-## :mortar_board: Skills and Technologies
+- **[Campus - Solução IoT para Irrigação](#)**: Solução inteligente que visa reduzir o desperdício de água e automatizar processos de irrigação, utilizando **Laravel**, **Postgres** e **ESP32 com módulos LoRa e Wi-Fi**.  
+- **[iDev - Plataforma de Aprendizado para Devs](https://idev.developerpegoraro.dev.br)**: Plataforma criada para divulgar meus cursos e conteúdos sobre tecnologia, desenvolvida com **Laravel**, **React com TypeScript**, **Tailwind** e **Postgres**.  
+- **[WVL - Sistema de Gestão Financeira](https://wvl.developerpegoraro.dev.br)**: Sistema que ajuda os usuários a gerenciar suas transações e otimizar o uso do dinheiro com análise de dados, utilizando a **API da OpenAI**, **Laravel**, **React com TypeScript** e **Postgres**.
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,css,js,php,py,ts,mysql,postgres,sqlite,docker,bootstrap,fastapi,jquery,laravel,react,tailwind,vite,cloudflare,figma,git,github,gitlab,linux&perline=12)](https://skillicons.dev)
-- **Languages**: **PHP**, JavaScript, TypeScript, CSS, Python, Arduino, C 
-- **Databases**: **Postgres**, MySQL, SQlite
-- **Tools & Platforms**: Docker, Digital Ocean, Git, Linux, Arduino
-- **Others**: IoT Solucions, API Development, Full-Stack, Medium English at Personal Classes, Learning Chinese at Instituto Confucio
+## :mortar_board: Habilidades e Tecnologias
 
-## 📫 My Contacts
+[![Minhas Habilidades](https://skillicons.dev/icons?i=arduino,c,css,js,php,py,ts,mysql,postgres,sqlite,docker,bootstrap,fastapi,jquery,laravel,react,tailwind,vite,cloudflare,figma,git,github,gitlab,linux&perline=12)](https://skillicons.dev)
 
-- **Website**: [developerpegoraro.dev.br](https://developerpegoraro.dev.br) 
+- **Linguagens**: **PHP**, JavaScript, TypeScript, CSS, Python, Arduino, C  
+- **Bancos de Dados**: **Postgres**, MySQL, SQLite  
+- **Ferramentas e Plataformas**: Docker, Digital Ocean, Git, Linux, Arduino  
+- **Outros**: Soluções IoT, Desenvolvimento de APIs, Full-Stack, Inglês intermediário (aulas particulares), Estudando Chinês no Instituto Confúcio
+
+## 📫 Meus Contatos
+
+- **Website**: [developerpegoraro.dev.br](https://developerpegoraro.dev.br)  
 - **Email**: [carlospegorarolopes@gmail.com](mailto:carlospegorarolopes@gmail.com)
-  
-## 📈 GitHub Stats
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPegoraro&show_icons=true&theme=default)
+## 📈 Estatísticas do GitHub
 
-## 💡 Other Projects
+![Estatísticas do GitHub de Carlos](https://github-readme-stats.vercel.app/api?username=CarlosPegoraro&show_icons=true&theme=default)
 
-[![Leet Code Projects](https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=LeetCodeProjects&theme=default)](https://github.com/CarlosPegoraro/repository-name)
+## 💡 Outros Projetos
 
-## :mortar_board: Formations
+[![Projetos do LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=LeetCodeProjects&theme=default)](https://github.com/CarlosPegoraro/repository-name)
 
-- Computer Technician at Colégio Pentagono
-- Studying Computation Engineering at Facens
-- Laravel Developer at Alura
-- Studying IoT at Alura
+## :mortar_board: Formação Acadêmica
 
-## ⚡ Fun Fact
+- Técnico em Informática pelo Colégio Pentágono  
+- Cursando Engenharia da Computação na Facens  
+- Formação em Laravel pela Alura  
+- Estudando IoT pela Alura
 
-When I'm not coding, you can find me playing games or studying about socity and people.
+## ⚡ Curiosidade
+
+Quando não estou programando, costumo jogar videogame ou estudar sobre sociedade e comportamento humano.
+
+---
+
+📚 **Curiosidade do dia**: O termo *telemetria* vem do grego *tele* (à distância) e *metron* (medida). Ele é utilizado em áreas que vão da Fórmula 1 à indústria aeroespacial. Leia mais: [Telemetria na prática – Revista Engenharia](https://revistaengenharia.com.br/telemetria-como-funciona/)

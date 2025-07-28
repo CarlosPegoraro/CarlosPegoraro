@@ -27,7 +27,7 @@ Sou estudante do primeiro semestre de Engenharia da Computação, com 2 anos de 
 
 ## 📫 Meus Contatos
 
-- **Website**: [developerpegoraro.dev.br](https://developerpegoraro.dev.br)  
+- **Website**: [pegoraro.dev.br](https://pegoraro.dev.br)  
 - **Email**: [carlospegorarolopes@gmail.com](mailto:carlospegorarolopes@gmail.com)
 
 ## 📈 Estatísticas do GitHub
